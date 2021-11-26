@@ -1,0 +1,10 @@
+﻿  xoGrid.cpp
+  xoGame.cpp
+c:\users\iamour\documents\visual studio 2015\projects\hw33.israaamour\hw33.israaamour\xogame.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+c:\users\iamour\documents\visual studio 2015\projects\hw33.israaamour\hw33.israaamour\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\iamour\documents\visual studio 2015\projects\hw33.israaamour\hw33.israaamour\xogame.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\iamour\documents\visual studio 2015\projects\hw33.israaamour\hw33.israaamour\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  HW33.IsraaAmour.vcxproj -> C:\Users\IAmour\Documents\Visual Studio 2015\Projects\HW33.IsraaAmour\Debug\HW33.IsraaAmour.exe
+  HW33.IsraaAmour.vcxproj -> C:\Users\IAmour\Documents\Visual Studio 2015\Projects\HW33.IsraaAmour\Debug\HW33.IsraaAmour.pdb (Full PDB)
